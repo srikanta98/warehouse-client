@@ -25,11 +25,11 @@ const Contact = () => {
           placeholder='Subject'
           className='input w-full max-w-md'
         /> */}
-        {/* <textarea
+        <textarea
           className='textarea w-full max-w-md'
           placeholder='Your message'
           rows={6}
-        ></textarea> */}
+        ></textarea>
         <PrimaryButton>Submit</PrimaryButton>
       </div>
     </div>
