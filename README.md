@@ -1,6 +1,6 @@
 # Manufacture Firebase ,Node and mongoDb
 
-This project was Really cool [Live link of this project](https://jolly-empanada-be2cee.netlify.app/).
+
 
 ## Available Scripts
 
